@@ -1,10 +1,15 @@
 package com.parameters;
 
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
+
+@Listeners(com.parameters.testListeners.class)
 public class ParameterTest {
+
 
 
     @Parameters({"url","emailid"})
@@ -24,6 +29,10 @@ public class ParameterTest {
                 System.out.println("optionalParam is"+ optionalParam);
 
             }
+
+
+
+
 
 /* if para is optional use @Optional annotation*/
 

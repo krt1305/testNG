@@ -3,7 +3,152 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/../restAssured/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restAssured/src/test/java/basics.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/Books.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/BooksController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/HelloWorldBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/HelloWorldController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/SwaggerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/UserDaoService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/UserResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/exception/UserNotFoundException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/helloWorld/HelloWorldBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/helloWorld/HelloWorldController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/user/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/user/UserDaoService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/user/UserNotFoundException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/user/UserResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/user/helloWorld/HelloWorldBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/java/com/rest/webservices/restfulwebservices/user/helloWorld/HelloWorldController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../restful-web-services/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/report.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/listeners/Listener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/listeners/ListenersTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/listeners/TestListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/parameters/DataProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/parameters/DataTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/parameters/ExtentManager.java">
           <value>
             <set />
           </value>
@@ -18,7 +163,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/parameters/executeFailedCases.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/parameters/parallelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/parameters/testListeners.java">
           <value>
             <set />
           </value>
@@ -33,7 +188,57 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../web-services-automation/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../web-services-automation/src/main/java/SchemaValidation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../web-services-automation/src/main/java/com/service/base/Base.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../web-services-automation/src/main/java/com/service/base/ExtentManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../web-services-automation/src/main/java/com/service/base/reporting.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../web-services-automation/src/main/java/com/service/jsonAssertLib/jsonAssertEx.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../web-services-automation/src/main/java/com/service/responseValidations/hamcrestLib.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../web-services-automation/src/main/java/com/service/schemaValidation/SchemaValidation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../web-services-automation/src/main/java/schema.json">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
           <value>
             <set />
           </value>
